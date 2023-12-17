@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/projects/curso-react-intro/build/static/css/main.d348666e.css",
-    "main.js": "/projects/curso-react-intro/build/static/js/main.362383e4.js",
-    "index.html": "/projects/curso-react-intro/build/index.html",
-    "static/media/deleteIcon.svg": "/projects/curso-react-intro/build/static/media/deleteIcon.7018c4465589031bd51c8efbe21df9ca.svg",
-    "static/media/checkIcon.svg": "/projects/curso-react-intro/build/static/media/checkIcon.e9a948bba52a34123d2ed7aeda0ea495.svg",
-    "main.d348666e.css.map": "/projects/curso-react-intro/build/static/css/main.d348666e.css.map",
-    "main.362383e4.js.map": "/projects/curso-react-intro/build/static/js/main.362383e4.js.map"
+    "main.css": "/TaskManager/static/css/main.d348666e.css",
+    "main.js": "/TaskManager/static/js/main.2b8d3aac.js",
+    "index.html": "/TaskManager/index.html",
+    "static/media/deleteIcon.svg": "/TaskManager/static/media/deleteIcon.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/checkIcon.svg": "/TaskManager/static/media/checkIcon.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.d348666e.css.map": "/TaskManager/static/css/main.d348666e.css.map",
+    "main.2b8d3aac.js.map": "/TaskManager/static/js/main.2b8d3aac.js.map"
   },
   "entrypoints": [
     "static/css/main.d348666e.css",
-    "static/js/main.362383e4.js"
+    "static/js/main.2b8d3aac.js"
   ]
 }
