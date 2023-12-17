@@ -1,0 +1,60 @@
+form {
+    background-color: gray;
+    padding: 25px 20px;
+    border-radius: 10px;
+    width: 50%;
+}
+
+label {
+    color: black;
+    width: 100%;
+    text-align: start;
+    left: 30px;
+    font-weight: bolder;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+textarea {
+    width: calc(100% - 20px);
+    border-radius: 8px;
+    color: black;
+    font-size: 19px;
+    height: 79px;
+    box-shadow: 6px 7px rgba(35, 35, 35, 0.35);
+    padding: 6px;
+    margin-top: 15px;
+}
+
+textarea:focus {
+    outline-color: #53534E;
+}
+
+.TodoForm-buttonContainer {
+    text-align: center;
+    display: flow;
+    padding: 5px;
+    margin-top: 15px;
+}
+
+button.TodoForm-button--cancel, .TodoForm-button--add  {
+    width: 45%;
+    font-size: 17px;
+    border-radius: 5px;
+    box-shadow: 6px 7px rgba(35, 35, 35, 0.35);
+    border: 0;  
+}
+
+button.TodoForm-button--cancel {
+    margin-right: 10px;
+}
+
+button.TodoForm-button--add {
+    margin-left: 10px;
+}
+
+button.TodoForm-button--cancel:hover,
+.TodoForm-button--add:hover{
+    background-color: #53534E;
+}
+

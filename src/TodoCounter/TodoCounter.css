@@ -1,0 +1,21 @@
+.list-counter-container {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.list-counter {
+    font-size: 97%;
+    text-align: start;
+    margin: 10px;
+    padding: 15px;
+    list-style-type: none;
+    width: 77%;
+    background-color: #E1E4E0;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 2);
+    transition: box-shadow 0.3s ease-in-out;
+}
+

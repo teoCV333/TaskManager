@@ -1,0 +1,16 @@
+.close-modal {
+    position: fixed;
+    border-radius: 29px;
+    padding: 15px 20px;
+    top: 20px;
+    right: 20px;
+    background-color: #14252F;
+    border: 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 2);
+    transition: box-shadow 0.3s ease-in-out;
+    cursor: pointer;
+}
+
+.close-modal:hover {
+    background-color: #465D97;
+}

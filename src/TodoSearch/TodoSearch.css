@@ -1,0 +1,15 @@
+input {
+    height: 5%;
+    width: 84%;
+    border-radius: 6px;
+    border: 0;
+    text-align: justify;
+    margin-top: 8px;
+    text-indent: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 2);
+    transition: box-shadow 0.3s ease-in-out;
+    background-image: url('../util/icons/lupa.png');
+    background-repeat: no-repeat;
+    background-position: right 10px top 50%;
+    background-size: 20px;
+}

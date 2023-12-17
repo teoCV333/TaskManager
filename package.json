@@ -1,6 +1,11 @@
 {
   "name": "platzi-intro-react-base",
   "version": "0.1.0",
+  "prettier": {
+    "tabWidth": 2,
+    "singleQuote": true,
+    "semi": false
+  },
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",

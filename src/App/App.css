@@ -1,0 +1,27 @@
+.row {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    height: 100%;
+}
+
+.header-info {
+    background-color: #14252F;
+    padding: 5px;
+    width: 35%;
+    text-align: center;
+    border-radius: 10px;
+    height: 91%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 2);
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.todo-list {
+    text-align: center;
+    width: 80%;
+    margin-left: 15px;
+    height: 91%;
+    border-radius: 10px;    
+    box-shadow: 0 14px 8px rgba(0, 0, 0, 2);
+    transition: box-shadow 0.3s ease-in-out;
+}

@@ -1,0 +1,17 @@
+.empty-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8px;
+    box-shadow: 3px 5px 7px rgb(0 0 0 / 67%);
+    transition: box-shadow 0.3s ease-in-out;
+    border-radius: 10px;
+    padding: 15px 0;
+    background-color: #E1E4E0;
+}
+
+.empty-container:hover {
+    color: white;
+    background-color: #14252F;
+}
